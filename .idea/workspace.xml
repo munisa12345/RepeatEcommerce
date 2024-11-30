@@ -4,9 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="c6745467-7626-4c0f-999e-1a57800c46ce" name="Changes" comment="Category object">
       <change beforePath="$PROJECT_DIR$/src/main/java/uz/pdp/repeatecommerce/entity/Category.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/uz/pdp/repeatecommerce/entity/Category.java" afterDir="false" />
     </list>
+=======
+    <list default="true" id="c6745467-7626-4c0f-999e-1a57800c46ce" name="Changes" comment="Order object and Status enum classes" />
+>>>>>>> 4f4f078 (OrderItem and Product objects)
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,6 +26,7 @@
   <component name="Git.Settings">
     <option name="PATH_TO_GIT" value="C:\Program Files\Git\bin\git.exe" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -132,7 +137,35 @@
       <option name="project" value="LOCAL" />
       <updated>1732941358021</updated>
     </task>
+<<<<<<< HEAD
     <option name="localTasksCounter" value="4" />
+=======
+    <task id="LOCAL-00004" summary="Category object">
+      <option name="closed" value="true" />
+      <created>1732941622338</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1732941622338</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Order object and Status enum classes">
+      <option name="closed" value="true" />
+      <created>1732941700077</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1732941700077</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Order object and Status enum classes">
+      <option name="closed" value="true" />
+      <created>1732941727488</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1732941727488</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+>>>>>>> 4f4f078 (OrderItem and Product objects)
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -153,7 +186,14 @@
     <MESSAGE value="firstCommit" />
     <MESSAGE value="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;src/main/java/uz/pdp/repeatecommerce/entity/Basket.java" />
     <MESSAGE value="Bakset object" />
+<<<<<<< HEAD
     <MESSAGE value="Category object" />
     <option name="LAST_COMMIT_MESSAGE" value="Category object" />
+=======
+    <MESSAGE value="Order and Status enum  classes" />
+    <MESSAGE value="Category object" />
+    <MESSAGE value="Order object and Status enum classes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Order object and Status enum classes" />
+>>>>>>> 4f4f078 (OrderItem and Product objects)
   </component>
 </project>
