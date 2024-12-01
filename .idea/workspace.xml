@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+<<<<<<< HEAD
+    <list default="true" id="c6745467-7626-4c0f-999e-1a57800c46ce" name="Changes" comment="Category object">
+      <change beforePath="$PROJECT_DIR$/src/main/java/uz/pdp/repeatecommerce/entity/Category.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/uz/pdp/repeatecommerce/entity/Category.java" afterDir="false" />
+    </list>
+=======
+    <list default="true" id="c6745467-7626-4c0f-999e-1a57800c46ce" name="Changes" comment="Order object and Status enum classes" />
+>>>>>>> 4f4f078 (OrderItem and Product objects)
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PATH_TO_GIT" value="C:\Program Files\Git\bin\git.exe" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;munisa12345&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/munisa12345/RepeatEcommerce.git&quot;,
+    &quot;accountId&quot;: &quot;07c3cf0a-debb-4818-a743-d7d97598ccf4&quot;
+  }
+}</component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2pXGfc4efJMnfhFvUj5HNcxWCYi" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/user/IdeaProjects/RepeatEcommerce&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="Tomcat 9.0.97" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.97" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment>
+        <artifact name="RepeatEcommerce:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/RepeatEcommerce_war_exploded" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings />
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="RepeatEcommerce:war exploded" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.23726.103" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.23726.103" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c6745467-7626-4c0f-999e-1a57800c46ce" name="Changes" comment="" />
+      <created>1732905111430</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1732905111430</updated>
+      <workItem from="1732905112703" duration="4606000" />
+      <workItem from="1732912856149" duration="1103000" />
+    </task>
+    <task id="LOCAL-00001" summary="firstCommit">
+      <option name="closed" value="true" />
+      <created>1732911589242</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1732911589242</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Bakset object">
+      <option name="closed" value="true" />
+      <created>1732941274204</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1732941274204</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Category object">
+      <option name="closed" value="true" />
+      <created>1732941358021</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1732941358021</updated>
+    </task>
+<<<<<<< HEAD
+    <option name="localTasksCounter" value="4" />
+=======
+    <task id="LOCAL-00004" summary="Category object">
+      <option name="closed" value="true" />
+      <created>1732941622338</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1732941622338</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Order object and Status enum classes">
+      <option name="closed" value="true" />
+      <created>1732941700077</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1732941700077</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Order object and Status enum classes">
+      <option name="closed" value="true" />
+      <created>1732941727488</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1732941727488</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+>>>>>>> 4f4f078 (OrderItem and Product objects)
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="firstCommit" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;src/main/java/uz/pdp/repeatecommerce/entity/Basket.java" />
+    <MESSAGE value="Bakset object" />
+<<<<<<< HEAD
+    <MESSAGE value="Category object" />
+    <option name="LAST_COMMIT_MESSAGE" value="Category object" />
+=======
+    <MESSAGE value="Order and Status enum  classes" />
+    <MESSAGE value="Category object" />
+    <MESSAGE value="Order object and Status enum classes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Order object and Status enum classes" />
+>>>>>>> 4f4f078 (OrderItem and Product objects)
+  </component>
+</project>
